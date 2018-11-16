@@ -1,5 +1,5 @@
 # Network-Based-Application-Development
-Estate Management System
+                                             **Estate Management System**
 
 Project Overview :
 In the world of the internet, we know that everything is just a click away. Whether you want to buy a car or a mobile phone, all you need to do is just search for it and it is all there. If you want to sell something you just need to upload the information on some web server and anyone in the world can get their hands on it. Through this portal we try to simplify the task of buying/selling flats and row houses The end users(customers) can browse through the collection of row houses/flats and rates of the concerned construction company. If they find something of their interest they can book/mark a property of their interest and the company executive and be sent to the customer’s residence with additional information about the same.
@@ -8,7 +8,7 @@ Requirements:
 The system is Client Server architecture. It requires following
 - Front End : HTML, CSS, Servlets
 - Back End : MySql.
-- IDE : Netbeans,
+- IDE : Netbeans.
 
 Need: This portal saves the time of the end users who don’t have to move from office to office. It also saves the resources of the construction company which just needs to upload data to the web server with hardly any paperwork (for brochures etc). It may also save them office space. The construction company should also have an easy way to manage its staff (customer executives, agents, etc.)
 
